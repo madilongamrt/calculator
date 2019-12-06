@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "onlineBondCalculator",
+    "skipInstall": false,
+    "directory": ".",
+    "clientProject": "onlineBondCalculator",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
